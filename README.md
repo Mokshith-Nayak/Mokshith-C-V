@@ -13,6 +13,6 @@
 
 ## 📫 Let's Connect!
 - LinkedIn: [Mokshith Nayak](https://www.linkedin.com/in/mokshith-c-v-nayak1999)
-- Email: mokshithnayak1999@gmail.com
+- Email: mokshith.cv99@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokshith-Nayak&show_icons=true&theme=radical)
