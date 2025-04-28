@@ -1,4 +1,4 @@
-# Hi, I'm Mokshith Nayak 👋
+# Hi, I'm Mokshith C V 👋
 🚀 Passionate coder with expertise in Java, Python, and Android development.
 
 ## 🌟 Featured Projects
